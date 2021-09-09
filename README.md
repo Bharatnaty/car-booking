@@ -1,5 +1,6 @@
 # CAR-BOOKING
 
+# BASE MODELS
 ![Retail+Price+Optimization+Machine+Learning+Project](https://user-images.githubusercontent.com/47810389/132620465-10419796-c7ea-46f6-8c9f-8be27e422165.png)
 
 # STEP BY STEP
