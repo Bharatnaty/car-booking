@@ -10,4 +10,7 @@
 8.use multiple models like production model pick best and tune the model <br>
 9.find best model using metrics<br>
 
-[reference ](# https://www.kaggle.com/jeffreybraun/buckle-up-car-rental-eda)
+reference :<br>
+1.https://www.kaggle.com/jeffreybraun/buckle-up-car-rental-eda<br>
+2.https://medium.com/analytics-vidhya/cab-booking-prediction-by-using-machine-learning-algorithms-f6a8346772b0<br>
+3.http://shabdbooks.com/gallery/76-june2020.pdf<br>
