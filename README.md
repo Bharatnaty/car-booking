@@ -9,3 +9,5 @@
 7.remove unwanted data with less information then convert categorical data with information into binary form (onehot encoding)<br>
 8.use multiple models like production model pick best and tune the model <br>
 9.find best model using metrics<br>
+
+[reference ](# https://www.kaggle.com/jeffreybraun/buckle-up-car-rental-eda)
