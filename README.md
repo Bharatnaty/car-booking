@@ -1,4 +1,7 @@
 # CAR-BOOKING
+
+![Retail+Price+Optimization+Machine+Learning+Project](https://user-images.githubusercontent.com/47810389/132620465-10419796-c7ea-46f6-8c9f-8be27e422165.png)
+
 # STEP BY STEP
 1.train and test data given individually with output on separate file named as label<br>
 2.checking null values<br>
@@ -10,7 +13,7 @@
 8.use multiple models like production model pick best and tune the model <br>
 9.find best model using metrics<br>
 
-reference :<br>
+# REFERENCE :<br>
 1.https://www.kaggle.com/jeffreybraun/buckle-up-car-rental-eda<br>
 2.https://medium.com/analytics-vidhya/cab-booking-prediction-by-using-machine-learning-algorithms-f6a8346772b0<br>
 3.http://shabdbooks.com/gallery/76-june2020.pdf<br>
